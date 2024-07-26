@@ -109,8 +109,6 @@ Future work could focus on developing hybrid models that combine transformer mod
 
 <h2>References</h2>
 
-## References
-
 1. Tóth, L., Nagy, B., Janthó, D., Vidács, L., & Gyimóthy, T. (2019, July). Towards an accurate prediction of the question quality on Stack Overflow using a deep-learning-based NLP approach. In *ICSOFT* (pp. 631-639).
 
 2. Zhang, F., Yu, X., Keung, J., Li, F., Xie, Z., Yang, Z., ... & Zhang, Z. (2022). Improving Stack Overflow question title generation with copying enhanced CodeBERT model and bi-modal information. *Information and Software Technology, 148*, 106922.
